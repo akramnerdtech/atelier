@@ -1,7 +1,7 @@
 import { image1, image2, image3, image4, image5, image6, image7, image8 } from "../Store";
 
 const products = [
-  { id: 1, productName: "Minimal Leather Sandals", price: 69.9, category: "Sandals", image: image1, id:"categ" },
+  { id: 1, productName: "Minimal Leather Sandals", price: 69.9, category: "Sandals", image: image1,  },
   { id: 2, productName: "Braided Strap Sandals", price: 74.0, category: "Sandals", image: image2 },
   { id: 3, productName: "Chunky Sole Sandals", price: 79.0, category: "Sandals", image: image3 },
   { id: 4, productName: "Flat Buckle Sandals", price: 59.9, category: "Sandals", image: image4 },
